@@ -1,0 +1,11 @@
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.2\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.2\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.2\ConsoleApp16.AssemblyInfo.cs
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.2\ConsoleApp16.deps.json
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.2\ConsoleApp16.runtimeconfig.json
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.2\ConsoleApp16.runtimeconfig.dev.json
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.2\ConsoleApp16.dll
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.2\ConsoleApp16.pdb
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.2\ConsoleApp16.dll
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.2\ConsoleApp16.pdb
+C:\Users\fonta\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.2\ConsoleApp16.csprojAssemblyReference.cache
